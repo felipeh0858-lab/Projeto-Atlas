@@ -44,6 +44,16 @@ Projeto-Atlas/
 │   │   ├── 02-principios.md
 │   │   ├── 03-filosofia.md
 │   │   └── 04-roadmap.md
+├── decisions/
+│   ├── ADR-001-escolha-da-arquitetura.md
+│   ├── ADR-002-criacao-do-adm.md
+│   ├── ADR-003-stack-tecnologica.md
+│   └── ADR-004-escopo-do-mvp.md
+│
+├── meetings/
+│   ├── 2026-07-28.md
+│   ├── 2026-07-30.md
+│   └── ...
 │   ├── arquitetura/
 │   │   ├── 01-visao-arquitetura.md
 │   │   ├── 02-backend.md
@@ -77,8 +87,10 @@ Projeto-Atlas/
 ├── core/
 │   ├── adm/
 │   ├── atlas-memory/
+│    ├── confidence-engine/
 │   ├── knowledge-base/
 │   └── rules-engine/
+│  
 ├── app/
 ├── backend/
 ├── ia/
