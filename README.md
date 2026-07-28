@@ -46,24 +46,32 @@ docs/
 │   │   └── 04-roadmap.md
 │   │
 │   ├── arquitetura/
-│   │   ├── arquitetura-geral.md
-│   │   ├── backend.md
-│   │   ├── frontend.md
-│   │   ├── banco-de-dados.md
-│   │   ├── ia.md
-│   │   └── api.md
-│   │
+arquitetura/
+01-visao-arquitetura.md
+02-backend.md
+03-frontend.md
+04-api.md
+05-banco-de-dados.md
+06-infraestrutura.md
+07-seguranca.md
+08-atlas-core.md
 │   ├── negocio/
-│   │   ├── modelo-de-negocio.md
-│   │   ├── monetizacao.md
-│   │   ├── marketing.md
-│   │   └── investidores.md
+negocio/
+
+modelo-de-negocio.md
+monetizacao.md
+marketing.md
+investidores.md
+
+mercado.md
+concorrentes.md
 │   │
 │   ├── design/
 │   │   ├── identidade-visual.md
 │   │   ├── ux.md
 │   │   └── ui.md
-│   │
+│   │   componetes.md
+        design-system.md
 │   └── changelog.md
 app/
 backend/
@@ -71,6 +79,33 @@ ia/
 admin/
 website/
 assets/
+
+research/
+    research/
+
+    usuarios/
+
+    tecnicos/
+
+    problemas/
+
+    estatisticas/
+
+    entrevistas/
+
+    mercado/
+
+core/
+    core/
+
+    ADM/
+
+    Atlas Memory/
+
+    Knowledge Base/
+
+    Rules Engine/
+  
 ```
 
 ---
