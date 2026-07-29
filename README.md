@@ -44,6 +44,7 @@ Projeto-Atlas/
 │   │   ├── 02-principios.md
 │   │   ├── 03-filosofia.md
 │   │   └── 04-roadmap.md
+│   │   └── 05-constitution.md
 ├── decisions/
 │   ├── ADR-001-escolha-da-arquitetura.md
 │   ├── ADR-002-criacao-do-adm.md
