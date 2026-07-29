@@ -40,6 +40,7 @@ Projeto-Atlas/
 ├── docs/
 │   ├── atlas-bible/
 │   │   ├── 00-visao-geral.md
+│   │   └── 01-atlas-investigation-science.md
 │   │   ├── 01-missao-visao-valores.md
 │   │   ├── 02-principios.md
 │   │   ├── 03-filosofia.md
